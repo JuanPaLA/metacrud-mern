@@ -22,6 +22,7 @@ Front:
 - React
 - Axios
 - Redux
+
 Backend:
 - Node JS
 - File System API
